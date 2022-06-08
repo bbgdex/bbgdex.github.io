@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #892db2;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="组_66023" data-name="组 66023" transform="translate(-940 -560)">
+    <g id="组_66022" data-name="组 66022" transform="translate(940 560)">
+      <g id="组_66021" data-name="组 66021">
+        <g id="item-01-icon">
+          <circle id="Oval" class="cls-1" cx="10" cy="10" r="10" transform="translate(0 0)"/>
+        </g>
+      </g>
+      <line id="直线_823" data-name="直线 823" class="cls-2" y2="12.5" transform="translate(10.25 3.75)"/>
+    </g>
+    <line id="直线_824" data-name="直线 824" class="cls-2" y2="12.5" transform="translate(956.25 570.25) rotate(90)"/>
+  </g>
+</svg>

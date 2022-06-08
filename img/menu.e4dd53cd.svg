@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_2" data-name="矩形 2" class="cls-1" width="24" height="24" transform="translate(192 366)"/>
+    </clipPath>
+  </defs>
+  <g id="蒙版组_1" data-name="蒙版组 1" class="cls-2" transform="translate(-192 -366)">
+    <g id="组_92" data-name="组 92" transform="translate(15 -28)">
+      <path id="路径_284" data-name="路径 284" class="cls-1" d="M53.126,134.4H32.874c-.51,0-.874.446-.874,1.071v.357a1,1,0,0,0,.874,1.071H53.126c.51,0,.874-.446.874-1.071v-.357C53.927,134.846,53.563,134.4,53.126,134.4Z" transform="translate(146 263.6)"/>
+      <path id="路径_285" data-name="路径 285" class="cls-1" d="M53.126,134.4H32.874c-.51,0-.874.446-.874,1.071v.357a1,1,0,0,0,.874,1.071H53.126c.51,0,.874-.446.874-1.071v-.357C53.927,134.846,53.563,134.4,53.126,134.4Z" transform="translate(146 270.6)"/>
+      <path id="路径_286" data-name="路径 286" class="cls-1" d="M53.126,134.4H32.874c-.51,0-.874.446-.874,1.071v.357a1,1,0,0,0,.874,1.071H53.126c.51,0,.874-.446.874-1.071v-.357C53.927,134.846,53.563,134.4,53.126,134.4Z" transform="translate(146 277.6)"/>
+    </g>
+  </g>
+</svg>
