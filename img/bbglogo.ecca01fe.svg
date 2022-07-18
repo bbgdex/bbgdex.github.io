@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.5" height="24.5" viewBox="0 0 24.5 24.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #47378b;
+        stroke: #5b4d9d;
+        stroke-width: 0.5px;
+      }
+
+      .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fb04cd;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 20px;
+      }
+
+      .cls-3 {
+        stroke: #06edff;
+      }
+
+      .cls-4 {
+        stroke: #ff3a6e;
+      }
+
+      .cls-5 {
+        stroke: #ffcf00;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-2);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-3);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-4);
+      }
+    </style>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+    <clipPath id="clip-4">
+      <use xlink:href="#fill-4"/>
+    </clipPath>
+  </defs>
+  <g id="组_66098" data-name="组 66098" transform="translate(-219.75 -362.75)">
+    <g id="组_66097" data-name="组 66097" transform="translate(220 363)">
+      <path id="路径_395" data-name="路径 395" class="cls-1" d="M13.049,24a12,12,0,1,1,12-12A12,12,0,0,1,13.049,24Zm-.308-12.308" transform="translate(-1.049)"/>
+    </g>
+    <g id="组_66096" data-name="组 66096" transform="translate(-402 -9006.906)">
+      <g id="组_49641" data-name="组 49641" transform="translate(627 9374.906)">
+        <g id="矩形_18355" data-name="矩形 18355" class="cls-2" transform="translate(0 1.363) rotate(-45)">
+          <rect id="fill" class="cls-6" width="1.928" height="7.231" rx="0.964"/>
+          <path class="cls-7" d="M0,-2.7694473266601562h1.92814040184021M10,0v7.230552673339844M1.92814040184021,10h-1.92814040184021M-8.07185959815979,7.230552673339844v-7.230552673339844"/>
+        </g>
+        <g id="矩形_18356" data-name="矩形 18356" class="cls-3" transform="translate(12.729 0.157) rotate(45)">
+          <rect id="fill-2" class="cls-6" width="1.928" height="7.231" rx="0.964"/>
+          <path class="cls-8" d="M0,-2.7694435119628906h1.9281550645828247M10,0v7.230556488037109M1.9281550645828247,10h-1.9281550645828247M-8.071844935417175,7.230556488037109v-7.230556488037109"/>
+        </g>
+        <g id="矩形_18357" data-name="矩形 18357" class="cls-4" transform="translate(7.617 8.944) rotate(-45)">
+          <rect id="fill-3" class="cls-6" width="1.928" height="7.231" rx="0.964"/>
+          <path class="cls-9" d="M0,-2.7694473266601562h1.92814040184021M10,0v7.230552673339844M1.92814040184021,10h-1.92814040184021M-8.07185959815979,7.230552673339844v-7.230552673339844"/>
+        </g>
+        <g id="矩形_18358" data-name="矩形 18358" class="cls-5" transform="translate(5.113 7.581) rotate(45)">
+          <rect id="fill-4" class="cls-6" width="1.928" height="7.231" rx="0.964"/>
+          <path class="cls-10" d="M0,-2.7694435119628906h1.9281550645828247M10,0v7.230556488037109M1.9281550645828247,10h-1.9281550645828247M-8.071844935417175,7.230556488037109v-7.230556488037109"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

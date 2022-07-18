@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="292.001" height="20.001" viewBox="0 0 292.001 20.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #766cb5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a81e51"/>
+      <stop offset="1" stop-color="#8729c1"/>
+    </linearGradient>
+  </defs>
+  <g id="组_66107" data-name="组 66107" transform="translate(-42 -274)">
+    <path id="联合_2" data-name="联合 2" class="cls-1" d="M3669.6-3533H3633v-20h46.722l8.683,8.578A1.986,1.986,0,0,1,3689-3543a1.984,1.984,0,0,1-.594,1.422l-8.683,8.578Z" transform="translate(-3591 3827)"/>
+    <path id="减去_8" data-name="减去 8" class="cls-2" d="M-7716.276-3632h-244l8.8-8.566a1.984,1.984,0,0,0,.605-1.433,1.978,1.978,0,0,0-.605-1.433l-8.8-8.568h244v20Z" transform="translate(8050.277 3926)"/>
+  </g>
+</svg>
