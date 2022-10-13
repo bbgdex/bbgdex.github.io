@@ -16,7 +16,7 @@
 
 		body {
 			overflow: hidden;
-			background-image: url(./img/background.svg);
+			background-image: url(./img/background.png);
 			background-image: 100%;
 		}
 	</style>
@@ -72,7 +72,7 @@
 
 		function fillBackground() {
 			const img = new Image();
-			img.src = './img/background.svg';
+			img.src = './img/background.png';
 			img.onload = () => {
 				const newHeight = w / img.width * img.height;
 				ctx.drawImage(img, 0, 0, w, newHeight);
